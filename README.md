@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Trainee Engineer at Firminiq<br>👯 I’m looking to collaborate on a like minded team<br>🤝 I’m looking for help with finding a good job<br>🌱 I’m currently learning react<br>
+🔭 I’m currently working as a Software Engineer at Firminiq<br>👯 I’m looking to collaborate on a like minded team<br>🤝 I’m looking for help with finding a good job<br>🌱 I’m currently learning react<br>
 
 
 ## 🌐 Socials:
